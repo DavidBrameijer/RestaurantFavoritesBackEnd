@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RestaurantFaves(BackEnd).props" />
+</Project>
